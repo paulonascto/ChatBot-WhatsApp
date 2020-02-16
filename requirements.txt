@@ -1,0 +1,8 @@
+setuptools
+wheel
+chatterbot
+chatterbot_corpus
+Pillow
+selenium
+wikipedia
+pyYAML==5.1
