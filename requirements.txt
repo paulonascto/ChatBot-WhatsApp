@@ -5,4 +5,4 @@ chatterbot_corpus
 Pillow
 selenium
 wikipedia
-pyYAML==5.1
+pyYAML==5.4
